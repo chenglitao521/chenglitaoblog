@@ -1,18 +1,20 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 好好学习，天天向上
+keywords: 程立涛, chenglitao521
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+当作为一名程序员的你看到这篇文章时，我想你已经猜到了我也是一名程序员。
 
-仰慕「优雅编码的艺术」。
+毕业后一直从事Java开发，至今已有三年时间。
 
-坚信熟能生巧，努力改变人生。
+热爱这个行业，热爱coding,也从来没有想过以后会转行干点别的，因为觉得自己除了写bug好像其他手艺都不能养活自己。
+
+So...还是好好写bug吧。哈哈！
 
 ## 联系
 
