@@ -24,7 +24,7 @@ keywords: springboot2.0
 #### Maven构建项目
 
  1. 在File菜单里面选择 New > Project,然后选择Spring Initializr,然后如下图所示即可
- ![enter description here](../images/blog/1528707818531.jpg)
+ ![enter description here](https://xiamo.club/images/blog/1528707818531.jpg)
  ![enter description here](../images/blog/1528707893804.jpg)
  ![enter description here](../images/blog/1528707932645.jpg)
  ![enter description here](../images/blog/1528707952331.jpg)
