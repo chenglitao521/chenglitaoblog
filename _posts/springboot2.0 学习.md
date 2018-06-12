@@ -23,21 +23,20 @@ Springboot一直以提高开发效率著称，自己也想学习一下，截止�
 #### Maven构建项目
 
  1. 在File菜单里面选择 New > Project,然后选择Spring Initializr,然后如下图所示即可
- ![enter description here](./images/1528707818531.jpg)
- ![enter description here](./images/1528707893804.jpg)
- ![enter description here](./images/1528707932645.jpg)
- ![enter description here](./images/1528707952331.jpg)
+ ![图片1](https://xiamo.club/images/1528707818531.jpg)
+ ![enter description here](https://xiamo.club/images/1528707893804.jpg)
+ ![enter description here](https://xiamo.club/images/1528707932645.jpg)
+ ![enter description here](https://xiamo.club/images/1528707952331.jpg)
  
  2. 构建完成后，目录结构如下图所示
- ![enter description here](./images/1528708725149.jpg)
+ ![enter description here](https://xiamo.club/images/1528708725149.jpg)
 至此项目已经构建完成了。
 ####  目录结构
  -src/maim/java 存放Java代码及入口文件
  -src/main/resources  存放静态文件、前端代码、配置文件
  -src/test 存放测试代码
 
-这是基本的目录结构，当然实际开发中java目录下还是按照dao、service、controller、po、util等结构配置。springboot只是提供了基础的默认结构，完全可以自己定制。![enter description here](./images/favicon.ico)
-
+这是基本的目录结构，当然实际开发中java目录下还是按照dao、service、controller、po、util等结构配置。springboot只是提供了基础的默认结构，完全可以自己定制。
 
 ----------
 
@@ -56,7 +55,7 @@ Springboot一直以提高开发效率著称，自己也想学习一下，截止�
 Spring Boot提供了很多“开箱即用”的依赖模块，可以打开Pom.xml文件查看，比如spring-boot-starter-parent是一个特殊的starter,它用来提供相关的Maven默认依赖，使用它后常用的包依赖可以省去version标签。需要查看它有哪些默认依赖可以在目录查看C:\Users\用户名\.m2\repository\org\springframework\boot\spring-boot-dependencies\2.0.2.RELEASE\spring-boot-dependencies-2.0.2.RELEASE.pom。
 
 引入了web模块后，可以查看它依赖了哪些其他的模块，如下图：
-![enter description here](./images/1528775253434.jpg)
+![enter description here](https://xiamo.club/images/1528775253434.jpg)
 
 查看这个些模块引入的依赖就会发现，Spring Boot对Spring的配置进行了打包而已引入，其实还是使用Spring 的环境。只是这些不用开发者操心了，更加关注自己的业务代码。
 
@@ -80,7 +79,7 @@ public class DemoApplication {
 }
 ```
 @RestController 注解可以点进入看，它其实是很多注解的集合：
-![enter description here](./images/1528775851715.jpg)
+![enter description here](https://xiamo.club/images/1528775851715.jpg)
 
 3.在DemoApplication 类中右键启动，就和启动普通的main方法一样，然后浏览器访问http://localhost:8080/hello 就可以看到结果了。
 
