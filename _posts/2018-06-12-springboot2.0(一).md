@@ -28,13 +28,18 @@ Springboot一直以提高开发效率著称，自己也想学习一下，截止�
  ![enter description here](https://xiamo.club/images/blog/1528707932645.jpg)
  ![enter description here](https://xiamo.club/images/blog/1528707952331.jpg)
  
- 2. 构建完成后，目录结构如下图所示
- ![enter description here](https://xiamo.club/images/blog/1528708725149.jpg)
+ 2. 构建完成后，目录结构如下图所示  
+ 
+ ![enter description here](https://xiamo.club/images/blog/1528708725149.jpg)  
+ 
 至此项目已经构建完成了。
 ####  目录结构
- -src/maim/java 存放Java代码及入口文件
- -src/main/resources  存放静态文件、前端代码、配置文件
- -src/test 存放测试代码
+ -src/maim/java 存放Java代码及入口文件   
+ 
+ -src/main/resources  存放静态文件、前端代码、配置文件  
+ 
+ -src/test 存放测试代码  
+ 
 
 这是基本的目录结构，当然实际开发中java目录下还是按照dao、service、controller、po、util等结构配置。springboot只是提供了基础的默认结构，完全可以自己定制。
 
@@ -79,7 +84,7 @@ public class DemoApplication {
 }
 ```
 @RestController 注解可以点进入看，它其实是很多注解的集合：
-->![图片](https://xiamo.club/images/blog/1528775851715.jpg)<-
+![图片](https://xiamo.club/images/blog/1528775851715.jpg)
 
 3.在DemoApplication 类中右键启动，就和启动普通的main方法一样，然后浏览器访问http://localhost:8080/hello 就可以看到结果了。
 
