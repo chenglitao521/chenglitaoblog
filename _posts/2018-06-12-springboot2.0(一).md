@@ -1,6 +1,6 @@
 ---
 layout: post
-title: springboot2.0系列(一)
+title: springboot2.0系列(一)：入门篇
 categories: [springboot]
 description: 从0开始springboot学习系列
 keywords: springboot2.0
