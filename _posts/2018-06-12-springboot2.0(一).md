@@ -31,17 +31,22 @@ Springboot一直以提高开发效率著称，自己也想学习一下，截止�
  2. 构建完成后，目录结构如下图所示  
  
  ![enter description here](https://xiamo.club/images/blog/1528708725149.jpg)  
- 
+
 至此项目已经构建完成了。
 ####  目录结构
  -src/maim/java 存放Java代码及入口文件   
+
+ -src/main/resources  存放静态文件、前端代码、配置文件    
  
- -src/main/resources  存放静态文件、前端代码、配置文件  
- 
- -src/test 存放测试代码  
+ -src/test 存放测试代码   
  
 
 这是基本的目录结构，当然实际开发中java目录下还是按照dao、service、controller、po、util等结构配置。springboot只是提供了基础的默认结构，完全可以自己定制。
+
+**注： DemoApplication 类为入口类，必须将该类放在根目录。**
+因为@SpringBootApplication 注解作用就是定义扫描的包范围，以及将包中的bean对象注入到容器等功能。
+
+
 
 ----------
 
@@ -96,4 +101,4 @@ public class DemoApplication {
 
 
 作者：狂奔的熊二  
-出处：www.xiamo.club
+出处：[www.xiamo.club](www.xiamo.club)
