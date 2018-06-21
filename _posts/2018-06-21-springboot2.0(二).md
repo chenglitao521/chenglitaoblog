@@ -84,7 +84,7 @@ public class DemoApplication {
 
 然后新建类MyConfig,@PropertySource注解指定配置文件。
 
-``` java
+``` java?linenums
 @Configuration
 @ConfigurationProperties(prefix = "com.chenglt")
 @PropertySource("classpath:myconfig.properties")
