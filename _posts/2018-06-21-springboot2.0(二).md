@@ -15,9 +15,7 @@ Spring Boot中核心思想：约定优于配置。那到底什么是约定优于
 
 ## 正文
 
-Spring Boot中几乎所有的配置都在 application.properties 中修改，如果你想看全部的配置，可以查看下面官网链接：
-
-[属性配置](https://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html)
+Spring Boot中几乎所有的配置都在 application.properties 中修改，如果你想看全部的配置，可以查看下面官网链接：[属性配置](https://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html)
 只需要选择需要修改的属性配置。
 
 
@@ -98,5 +96,6 @@ public class MyConfig {
 ```
 最后再通过该bean对象获取到属性值。
 
-作者：狂奔的熊二
+作者：狂奔的熊二  
+
 出处：[www.xiamo.club](www.xiamo.club)
