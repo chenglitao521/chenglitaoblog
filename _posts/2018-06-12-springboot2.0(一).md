@@ -4,7 +4,6 @@ title: springboot2.0系列(一)：入门篇
 categories: [springboot]
 description: 从0开始springboot学习系列
 keywords: springboot2.0
-date:2018年06月12日 17时13分07秒
 ---
 ## 前言
 Springboot一直以提高开发效率著称，自己也想学习一下，截止现在已经发布到2.0.2版本。网上大部分教程都是1.X的版本，但人要向前看不是吗？所以，我自己学习的过程中使用的是2.0版本。我把自己在网上看到1.X版本代码，在练习demo时遇到的问题也会记录，如果对你也有帮助那就再好不过了。
@@ -102,7 +101,7 @@ public class DemoApplication {
 
 
 ----------
-
+ 
 
 作者：狂奔的熊二   
 
