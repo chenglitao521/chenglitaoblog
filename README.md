@@ -1,6 +1,6 @@
 # 狂奔的熊二
 
-我的个人博客：<https://xiamo.club>，欢迎 Star 和 Fork。
+我的个人博客：<https://kbdxe.cn/>，欢迎 Star 和 Fork。
 
 ## 概览
 
