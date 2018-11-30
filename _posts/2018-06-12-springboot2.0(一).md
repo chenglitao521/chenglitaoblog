@@ -25,7 +25,7 @@ Springboot一直以提高开发效率著称，自己也想学习一下，截止�
  1. 在File菜单里面选择 New > Project,然后选择Spring Initializr,然后如下图所示即可
  ![图片1](https://kbdxe.cn/images/blog/1528707818531.jpg)
  ![enter description here](https://kbdxe.cn/images/blog/1528707893804.jpg)
- ![enter description here](https://https://kbdxe.cn/images/blog/1528707932645.jpg)
+ ![enter description here](https://kbdxe.cn/images/blog/1528707932645.jpg)
  ![enter description here](https://kbdxe.cn/images/blog/1528707952331.jpg)
  
  2. 构建完成后，目录结构如下图所示  
