@@ -1,3 +1,11 @@
+---
+layout: post
+title: redis的集群模式和哨兵模式对比
+categories: [redis]
+description: redis集群和哨兵模式对比
+keywords: redis集群
+---
+
 redis的集群模式和哨兵模式
 
 ## redis中集群模式
