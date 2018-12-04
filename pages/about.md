@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About
-description: 好好学习，天天向上
-keywords: 程立涛, chenglitao521
+description: 狂奔的熊二，狂奔的熊二
+keywords: 狂奔的熊二, chenglitao521
 comments: true
 menu: 关于
 permalink: /about/
