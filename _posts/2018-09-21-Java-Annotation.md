@@ -1,14 +1,10 @@
-
 ---
 layout: post
 title: Java中注解到底是什么
-categories: Java
+categories: [Java]
 description:Java中注解到底是什么
 keywords: 注解
-
 ---
-
-
 
 上次在学习@Transactional注解的时候，思考到个问题。Java中的注解到底是什么？有是如何实现的？
 
