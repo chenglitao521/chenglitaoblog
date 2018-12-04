@@ -3,7 +3,7 @@ layout: post
 title: spring中事务的理解
 categories: [spring , 事务]
 description: spring事务的原理，使用
-keywords: keyword1, keyword2
+keywords: Spring, 事务
 ---
 ## spring中事务的原理
 
