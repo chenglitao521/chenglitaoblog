@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 事务概念
+title: Spring事务系列(一)事务概念
 categories: [事务,mysql]
 description: 事务学习
 keywords: spring, 事务 
