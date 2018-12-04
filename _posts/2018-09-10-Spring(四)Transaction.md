@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spring 声明式注解事务实现机制
+title: Spring事务系列(四)声明式注解事务实现机制
 categories: [事务,spring]
 description: Spring 声明式注解事务实现机制
 keywords: spring,事务
