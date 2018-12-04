@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Java中注解到底是什么
-categories: [Jav]
+categories: [Java]
 description: Java中注解到底是什么
 keywords: 注解
 
