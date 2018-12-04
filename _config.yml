@@ -6,8 +6,8 @@ url: https://kbdxe.cn
 date_format: "ordinal"
 title: 狂奔的熊二
 subtitle: "好好学习，天天向上"
-description: "程立涛的个人博客"
-keywords: 狂奔的熊二, chenglitao521
+description: "狂奔的熊二的个人博客"
+keywords: 狂奔的熊二, chenglitao521,kbdxe,kbdxe.cn
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -15,8 +15,8 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: 程立涛
-organization:
+author: 狂奔的熊二
+organization:channelsoft
 organization_url:
 github_username: chenglitao521
 location: chengdu, China
@@ -66,7 +66,7 @@ paginate: 8
 lsi: false
 quiet: false
 excerpt_separator: "\n\n"
-permalink: /:year/:month/:day/:title/
+permalink: title.html
 gems:
     - jekyll-github-metadata
     - rouge
