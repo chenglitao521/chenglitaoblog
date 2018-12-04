@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spring事务系列(一)Spring事务的原理
+title: Spring事务系列(二)Spring事务的原理
 categories: [spring , 事务]
 description: spring事务的原理，使用
 keywords: Spring, 事务
