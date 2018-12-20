@@ -1,10 +1,11 @@
-
+---
 layout: post
-title: redis的集群模式和哨兵模式对比
-categories: [redis]
-description: redis集群和哨兵模式对比
-keywords: redis集群
+title: mysql慢查询开启
+categories: [mysql]
+description: mysql慢查询开启
+keywords: mysql,慢查询
 
+---
 
 ​	数据库的查询快慢是影响系统瓶颈的一大关键因素，所以我们需要找出查询比较慢的sql语句进行优化。开启慢日志是个很不错的方法，找出超过执行时间的语句分析。
 
