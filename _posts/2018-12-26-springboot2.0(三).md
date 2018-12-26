@@ -1,17 +1,17 @@
 ---
 layout: post
-title: springboot2.0(三)热部署devtoos
+title: springboot2.0(三)热部署devtools
 categories: [springboot]
-description:  springboot2.0(三)热部署devtoos
+description:  springboot2.0(三)热部署devtools
 keywords: springboot
 
 ---
 
 
 
-我们在开发中经常修改代码后，要重启才能生效。这样比较耗时，idea下Springboot提供了几种热部署的方式，使我们在不重启服务的情况下加载修改后的代码。这里是介绍devtoos的方式。
+我们在开发中经常修改代码后，要重启才能生效。这样比较耗时，idea下Springboot提供了几种热部署的方式，使我们在不重启服务的情况下加载修改后的代码。这里只介绍devtools的方式。
 
-## 热部署插件Spring-boot-devtoos的介绍
+## 热部署插件Spring-boot-devtools的介绍
 
 首先，上官网地址，比较容易阅读：
 
