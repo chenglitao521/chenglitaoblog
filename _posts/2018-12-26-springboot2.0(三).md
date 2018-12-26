@@ -1,10 +1,11 @@
 ---
 layout: post
 title: springboot2.0(三)热部署devtools
-categories: [springboot]
-description:  springboot2.0(三)热部署devtools
+categories:
+  - springboot
+description: springboot2.0(三)热部署devtools
 keywords: springboot
-
+published: true
 ---
 
 
