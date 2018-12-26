@@ -16,7 +16,7 @@ published: true
 
 首先，上官网地址，比较容易阅读：
 
-[devtoos](https://blog.csdn.net/Angry_Mills/article/details/80492068)
+[devtoos官网地址](https://docs.spring.io/spring-boot/docs/current/reference/html/using-boot-devtools.html)
 
 ## 配置方式
 
