@@ -43,7 +43,7 @@ keywords: 红黑树,
 
 
 
-![图片](C:\Users\44292\Pictures\675px-Red-black_tree_example.svg.png)
+![](https://oscimg.oschina.net/oscnet/b4b0e9dfce4c5c641b026fadef51f43b5f9.jpg)
 
 
 
